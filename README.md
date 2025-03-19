@@ -1,6 +1,6 @@
 # TestStaffReg Installation process
 
-Install MySQL on you computer and run the staff.sql file to import the database
+Install MySQL on you computer and import staff.sql file to import the database
 
 To install the application, make sure NodeJS is installed in you computer
 To confirm if NodeJS is running, open commnd prompt and write node -v 
