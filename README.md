@@ -1,4 +1,4 @@
-# TestStaffReg
+# TestStaffReg Installation process
 
 To install the application, make sure NodeJS is installed in you computer
 To confirm if NodeJS is running, open commnd prompt and write node -v 
