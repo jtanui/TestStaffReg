@@ -8,4 +8,6 @@ The application will run using localhost:3000
 
 <img width="352" alt="image" src="https://github.com/user-attachments/assets/df4dc018-5d1f-4898-b2dd-47338b55fdf0" />
 
+Install MySQL on you computer and run the staff.sql file to import the database
+
 
